@@ -1,0 +1,23 @@
+1. username = hitler
+   email    = hitler@gmail.com
+   password = zxcOP@123
+
+2. username = testing
+   cnf pwd  = JAIram@123
+   password = JAIram@123
+
+3. username = podaa
+   cnf pwd  = JAIram@123
+   password = JAIram@123
+
+4. username = arya
+   email    = arya@gmail.com
+   password = arya@123
+
+5. username = 
+   email    =
+   password = 
+
+6. username = 
+   email    =
+   password = 
